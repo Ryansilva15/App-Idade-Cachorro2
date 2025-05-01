@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IdadeDoCachorro</string>
+    <string name="Name">Nome</string>
+    <string name="Infome_nome">Informe o nome do seu chachorro</string>
+    <string name="years">Idade</string>
+    <string name="Informe_idade">Informe a idade dele</string>
+    <string name="idade_em_cachorres">A idade dele em cachorres é:</string>
+    <string name="Informe_raça">Informe a raça do cachorro</string>
+    <string name="race">Raça</string>
+    <string name="calculate">Calcular</string>
+    <string name="total_value">Resultado</string>
+
+</resources>
